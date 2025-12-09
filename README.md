@@ -1,6 +1,6 @@
 📑 Contenido del Repositorio
 
-🧩 Desafío 1 – Vectorización de Texto & Naïve Bayes
+▚ Desafío 1 – Vectorización de Texto & Naïve Bayes
 
 “Del texto al número: el primer puente del NLP.”
 
@@ -18,7 +18,7 @@ En este desafío trabajé con el dataset 20 Newsgroups, aplicando técnicas clá
 
   Este trabajo introduce cómo transformar texto bruto en vectores útiles para clasificación.
 
-🧩 Desafío 2 – Word Embeddings con Word2Vec
+▚ Desafío 2 – Word Embeddings con Word2Vec
 
 “Las palabras adquieren significado en el espacio vectorial.”
 
@@ -35,7 +35,7 @@ Incluye:
 
 El objetivo fue comprender cómo los modelos modernos capturan relaciones profundas entre palabras.
 
-🧩 Desafío 3 – Modelo de Lenguaje a Nivel Carácter
+▚ Desafío 3 – Modelo de Lenguaje a Nivel Carácter
 
 “Predecir el siguiente carácter: la esencia del lenguaje.”
 
@@ -55,7 +55,7 @@ Generación de texto con:
 
 Este modelo permite entender cómo las redes recurrentes aprenden dependencias a lo largo de una secuencia.
 
-🧩 Desafío 4 – Modelo Seq2Seq con LSTM para Traducción
+▚ Desafío 4 – Modelo Seq2Seq con LSTM para Traducción
 
 “Construyendo un traductor paso a paso, sin usar atención.”
 
@@ -87,7 +87,7 @@ sin utilizar el mecanismo de atención, porque no forma parte del desafío
 
 El resultado es un traductor funcional y una exploración completa del enfoque seq2seq clásico que precedió a los Transformers.
 
-🌟 Resumen del Aprendizaje
+📘 Resumen del Aprendizaje
 
 Este repositorio refleja un recorrido ordenado por las principales etapas del NLP moderno:
 
